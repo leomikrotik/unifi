@@ -1,3 +1,4 @@
+#!/bin/bash
 #Crie um arquivo.sh  copie o conteudo abaixo salve o arquivo 
 #altere a permissao chmod 777 arquivo.sh
 #execute  ./arquivo.sh
